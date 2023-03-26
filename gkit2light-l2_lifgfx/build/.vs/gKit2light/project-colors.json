@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e239e7cf-4ea4-9b46-97e2-4cec038c799b": {
+      "ProjectGuid": "e239e7cf-4ea4-9b46-97e2-4cec038c799b",
+      "DisplayName": "l2_lifgfx",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
